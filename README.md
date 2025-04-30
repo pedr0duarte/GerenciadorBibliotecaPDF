@@ -124,10 +124,8 @@ Ao adicionar arquivos PDF, o sistema cria:
 
 ## 🚀 EXECUÇÃO
 
-1. Compile os arquivos:
-   javac */*.java
+1. Execute o programa principal:
+   	InterfaceUsuario.java
 
-2. Execute o programa principal:
-   java interfaceusuario.InterfaceUsuario
-
-3. Navegue pelas opções do menu interativo.
+2. Execute o .jar:
+	java -jar GerenciadorBiblioteca.jar
